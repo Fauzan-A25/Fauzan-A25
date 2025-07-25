@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-- 👋 Hi, I'm **Fauzan Ahsanudin** – a tech enthusiast in **Data Science**, **AI**, and **Machine Learning**.
+- 👋 Hi, I'm **Fauzan Ahsanudin Alfikri** a tech enthusiast in **Data Science**, **AI**, and **Machine Learning**.
 - 🎓 Background in **Informatics Engineering**, passionate about turning data into insights.
 - 🚀 Always exploring new tech, building real-world ML solutions, and improving my skills.
 - 💼 Open to roles in **Data Analysis**, **ML Engineering**, or **AI Research**.
