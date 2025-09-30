@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&height=70&lines=Data+Scientist+%26+ML+Engineer;AI+%7C+Deep+Learning+%7C+Computer+Vision;Turning+Data+into+Insights" alt="Typing SVG" />
 
-**Informatics Engineering Graduate** • **AI Researcher** • **Data Science Enthusiast**
+**Data Sciences Undergraduate** • **AI Researcher** • **Data Science Enthusiast**
 
 ---
 
